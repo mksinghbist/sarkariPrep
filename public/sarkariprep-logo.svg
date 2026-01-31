@@ -1,0 +1,57 @@
+<svg
+  width="260"
+  height="60"
+  viewBox="0 0 260 60"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Icon Background -->
+  <rect x="0" y="6" width="48" height="48" rx="10" fill="#263238"/>
+
+  <!-- Book Icon -->
+  <path
+    d="M14 20C14 18.8954 14.8954 18 16 18H32C33.1046 18 34 18.8954 34 20V36C34 37.1046 33.1046 38 32 38H16C14.8954 38 14 37.1046 14 36V20Z"
+    fill="#ECEFF1"
+  />
+  <path
+    d="M18 24H30"
+    stroke="#90A4AE"
+    stroke-width="2"
+    stroke-linecap="round"
+  />
+  <path
+    d="M18 29H28"
+    stroke="#B0BEC5"
+    stroke-width="2"
+    stroke-linecap="round"
+  />
+  <path
+    d="M18 34H26"
+    stroke="#B0BEC5"
+    stroke-width="2"
+    stroke-linecap="round"
+  />
+
+  <!-- Check Mark -->
+  <path
+    d="M30 42L34 46L42 38"
+    stroke="#66BB6A"
+    stroke-width="3"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Brand Text -->
+  <text
+    x="64"
+    y="38"
+    font-size="28"
+    font-weight="700"
+    fill="#263238"
+    font-family="Arial, Helvetica, sans-serif"
+    letter-spacing="0.5"
+  >
+    Sarkari
+    <tspan fill="#546E7A">Prep</tspan>
+  </text>
+</svg>
