@@ -1,11 +1,9 @@
 export type QuizType = 'DAILY' | 'MOCK'
 
-export interface Option {
-    id: string
-    text: {
-        hi: string
-        en: string
-    }
+export type Option = {
+  id: string
+  en: string
+  hi?: string
 }
 export interface Question {
     id: string

@@ -66,5 +66,5 @@ export const resetQuiz = () => {
     reviewLater.value = []
     startedAt.value = null
     completed.value = false
-    timeLeft.value = 0
+    timeLeft.value = 60 * 1000 // Reset to default time (e.g., 60 seconds)  
 }

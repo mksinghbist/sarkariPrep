@@ -10,13 +10,13 @@
             "title": "SSC Full Mock 1",
             "type": "full-mock",
             "duration": 7200,
-            "totalQuestions": 10,
+            "totalQuestions": 150,
             "questions": 
                 [
                 {
                 "id": 1,
-                "question_hi": "भारत का राष्ट्रीय पशु क्या है?",
-                "question_en": "What is the national animal of India?",
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 1)",
+                "question_en": "What is the national animal of India? (Question 1)",
                 "options": {
                     "A": {
                     "hi": "शेर",
@@ -39,8 +39,8 @@
                 },
                 {
                 "id": 2,
-                "question_hi": "संविधान सभा के अध्यक्ष कौन थे?",
-                "question_en": "Who was the Chairman of the Constituent Assembly?",
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 2)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 2)",
                 "options": {
                     "A": {
                     "hi": "डॉ. अंबेडकर",
@@ -63,8 +63,8 @@
                 },
                 {
                 "id": 3,
-                "question_hi": "144 का वर्गमूल क्या है?",
-                "question_en": "What is the square root of 144?",
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 3)",
+                "question_en": "What is the square root of 144? (Question 3)",
                 "options": {
                     "A": {
                     "hi": "10",
@@ -87,8 +87,8 @@
                 },
                 {
                 "id": 4,
-                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ?",
-                "question_en": "Complete the series: 2, 4, 8, 16, ?",
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 4)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 4)",
                 "options": {
                     "A": {
                     "hi": "18",
@@ -111,8 +111,8 @@
                 },
                 {
                 "id": 5,
-                "question_hi": "भारत का राष्ट्रीय पशु क्या है?",
-                "question_en": "What is the national animal of India?",
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 5)",
+                "question_en": "What is the national animal of India? (Question 5)",
                 "options": {
                     "A": {
                     "hi": "शेर",
@@ -135,8 +135,8 @@
                 },
                 {
                 "id": 6,
-                "question_hi": "संविधान सभा के अध्यक्ष कौन थे?",
-                "question_en": "Who was the Chairman of the Constituent Assembly?",
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 6)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 6)",
                 "options": {
                     "A": {
                     "hi": "डॉ. अंबेडकर",
@@ -159,8 +159,8 @@
                 },
                 {
                 "id": 7,
-                "question_hi": "144 का वर्गमूल क्या है?",
-                "question_en": "What is the square root of 144?",
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 7)",
+                "question_en": "What is the square root of 144? (Question 7)",
                 "options": {
                     "A": {
                     "hi": "10",
@@ -183,8 +183,8 @@
                 },
                 {
                 "id": 8,
-                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? ",
-                "question_en": "Complete the series: 2, 4, 8, 16, ? ",
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 8)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 8)",
                 "options": {
                     "A": {
                     "hi": "18",
@@ -207,8 +207,8 @@
                 },
                 {
                 "id": 9,
-                "question_hi": "भारत का राष्ट्रीय पशु क्या है?",
-                "question_en": "What is the national animal of India?",
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 9)",
+                "question_en": "What is the national animal of India? (Question 9)",
                 "options": {
                     "A": {
                     "hi": "शेर",
@@ -231,8 +231,3368 @@
                 },
                 {
                 "id": 10,
-                "question_hi": "संविधान सभा के अध्यक्ष कौन थे?",
-                "question_en": "Who was the Chairman of the Constituent Assembly?",
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 10)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 10)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 11,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 11)",
+                "question_en": "What is the square root of 144? (Question 11)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 12,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 12)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 12)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 13,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 13)",
+                "question_en": "What is the national animal of India? (Question 13)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 14,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 14)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 14)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 15,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 15)",
+                "question_en": "What is the square root of 144? (Question 15)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 16,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 16)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 16)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 17,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 17)",
+                "question_en": "What is the national animal of India? (Question 17)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 18,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 18)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 18)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 19,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 19)",
+                "question_en": "What is the square root of 144? (Question 19)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 20,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 20)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 20)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 21,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 21)",
+                "question_en": "What is the national animal of India? (Question 21)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 22,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 22)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 22)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 23,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 23)",
+                "question_en": "What is the square root of 144? (Question 23)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 24,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 24)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 24)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 25,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 25)",
+                "question_en": "What is the national animal of India? (Question 25)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 26,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 26)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 26)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 27,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 27)",
+                "question_en": "What is the square root of 144? (Question 27)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 28,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 28)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 28)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 29,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 29)",
+                "question_en": "What is the national animal of India? (Question 29)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 30,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 30)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 30)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 31,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 31)",
+                "question_en": "What is the square root of 144? (Question 31)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 32,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 32)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 32)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 33,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 33)",
+                "question_en": "What is the national animal of India? (Question 33)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 34,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 34)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 34)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 35,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 35)",
+                "question_en": "What is the square root of 144? (Question 35)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 36,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 36)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 36)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 37,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 37)",
+                "question_en": "What is the national animal of India? (Question 37)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 38,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 38)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 38)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 39,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 39)",
+                "question_en": "What is the square root of 144? (Question 39)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 40,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 40)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 40)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 41,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 41)",
+                "question_en": "What is the national animal of India? (Question 41)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 42,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 42)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 42)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 43,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 43)",
+                "question_en": "What is the square root of 144? (Question 43)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 44,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 44)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 44)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 45,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 45)",
+                "question_en": "What is the national animal of India? (Question 45)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 46,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 46)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 46)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 47,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 47)",
+                "question_en": "What is the square root of 144? (Question 47)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 48,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 48)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 48)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 49,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 49)",
+                "question_en": "What is the national animal of India? (Question 49)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 50,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 50)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 50)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 51,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 51)",
+                "question_en": "What is the square root of 144? (Question 51)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 52,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 52)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 52)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 53,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 53)",
+                "question_en": "What is the national animal of India? (Question 53)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 54,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 54)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 54)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 55,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 55)",
+                "question_en": "What is the square root of 144? (Question 55)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 56,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 56)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 56)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 57,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 57)",
+                "question_en": "What is the national animal of India? (Question 57)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 58,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 58)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 58)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 59,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 59)",
+                "question_en": "What is the square root of 144? (Question 59)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 60,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 60)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 60)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 61,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 61)",
+                "question_en": "What is the national animal of India? (Question 61)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 62,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 62)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 62)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 63,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 63)",
+                "question_en": "What is the square root of 144? (Question 63)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 64,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 64)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 64)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 65,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 65)",
+                "question_en": "What is the national animal of India? (Question 65)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 66,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 66)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 66)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 67,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 67)",
+                "question_en": "What is the square root of 144? (Question 67)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 68,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 68)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 68)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 69,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 69)",
+                "question_en": "What is the national animal of India? (Question 69)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 70,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 70)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 70)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 71,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 71)",
+                "question_en": "What is the square root of 144? (Question 71)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 72,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 72)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 72)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 73,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 73)",
+                "question_en": "What is the national animal of India? (Question 73)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 74,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 74)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 74)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 75,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 75)",
+                "question_en": "What is the square root of 144? (Question 75)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 76,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 76)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 76)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 77,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 77)",
+                "question_en": "What is the national animal of India? (Question 77)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 78,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 78)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 78)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 79,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 79)",
+                "question_en": "What is the square root of 144? (Question 79)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 80,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 80)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 80)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 81,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 81)",
+                "question_en": "What is the national animal of India? (Question 81)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 82,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 82)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 82)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 83,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 83)",
+                "question_en": "What is the square root of 144? (Question 83)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 84,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 84)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 84)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 85,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 85)",
+                "question_en": "What is the national animal of India? (Question 85)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 86,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 86)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 86)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 87,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 87)",
+                "question_en": "What is the square root of 144? (Question 87)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 88,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 88)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 88)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 89,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 89)",
+                "question_en": "What is the national animal of India? (Question 89)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 90,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 90)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 90)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 91,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 91)",
+                "question_en": "What is the square root of 144? (Question 91)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 92,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 92)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 92)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 93,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 93)",
+                "question_en": "What is the national animal of India? (Question 93)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 94,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 94)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 94)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 95,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 95)",
+                "question_en": "What is the square root of 144? (Question 95)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 96,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 96)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 96)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 97,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 97)",
+                "question_en": "What is the national animal of India? (Question 97)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 98,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 98)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 98)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 99,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 99)",
+                "question_en": "What is the square root of 144? (Question 99)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 100,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 100)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 100)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 101,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 101)",
+                "question_en": "What is the national animal of India? (Question 101)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 102,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 102)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 102)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 103,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 103)",
+                "question_en": "What is the square root of 144? (Question 103)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 104,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 104)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 104)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 105,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 105)",
+                "question_en": "What is the national animal of India? (Question 105)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 106,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 106)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 106)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 107,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 107)",
+                "question_en": "What is the square root of 144? (Question 107)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 108,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 108)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 108)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 109,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 109)",
+                "question_en": "What is the national animal of India? (Question 109)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 110,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 110)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 110)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 111,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 111)",
+                "question_en": "What is the square root of 144? (Question 111)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 112,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 112)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 112)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 113,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 113)",
+                "question_en": "What is the national animal of India? (Question 113)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 114,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 114)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 114)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 115,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 115)",
+                "question_en": "What is the square root of 144? (Question 115)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 116,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 116)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 116)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 117,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 117)",
+                "question_en": "What is the national animal of India? (Question 117)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 118,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 118)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 118)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 119,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 119)",
+                "question_en": "What is the square root of 144? (Question 119)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 120,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 120)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 120)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 121,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 121)",
+                "question_en": "What is the national animal of India? (Question 121)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 122,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 122)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 122)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 123,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 123)",
+                "question_en": "What is the square root of 144? (Question 123)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 124,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 124)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 124)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 125,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 125)",
+                "question_en": "What is the national animal of India? (Question 125)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 126,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 126)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 126)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 127,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 127)",
+                "question_en": "What is the square root of 144? (Question 127)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 128,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 128)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 128)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 129,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 129)",
+                "question_en": "What is the national animal of India? (Question 129)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 130,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 130)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 130)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 131,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 131)",
+                "question_en": "What is the square root of 144? (Question 131)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 132,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 132)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 132)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 133,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 133)",
+                "question_en": "What is the national animal of India? (Question 133)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 134,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 134)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 134)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 135,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 135)",
+                "question_en": "What is the square root of 144? (Question 135)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 136,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 136)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 136)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 137,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 137)",
+                "question_en": "What is the national animal of India? (Question 137)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 138,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 138)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 138)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 139,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 139)",
+                "question_en": "What is the square root of 144? (Question 139)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 140,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 140)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 140)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 141,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 141)",
+                "question_en": "What is the national animal of India? (Question 141)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 142,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 142)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 142)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 143,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 143)",
+                "question_en": "What is the square root of 144? (Question 143)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 144,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 144)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 144)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 145,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 145)",
+                "question_en": "What is the national animal of India? (Question 145)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 146,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 146)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 146)",
+                "options": {
+                    "A": {
+                    "hi": "डॉ. अंबेडकर",
+                    "en": "Dr. Ambedkar"
+                    },
+                    "B": {
+                    "hi": "जवाहरलाल नेहरू",
+                    "en": "Jawaharlal Nehru"
+                    },
+                    "C": {
+                    "hi": "राजेन्द्र प्रसाद",
+                    "en": "Rajendra Prasad"
+                    },
+                    "D": {
+                    "hi": "सरदार पटेल",
+                    "en": "Sardar Patel"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 147,
+                "question_hi": "144 का वर्गमूल क्या है? (प्रश्न 147)",
+                "question_en": "What is the square root of 144? (Question 147)",
+                "options": {
+                    "A": {
+                    "hi": "10",
+                    "en": "10"
+                    },
+                    "B": {
+                    "hi": "11",
+                    "en": "11"
+                    },
+                    "C": {
+                    "hi": "12",
+                    "en": "12"
+                    },
+                    "D": {
+                    "hi": "13",
+                    "en": "13"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 148,
+                "question_hi": "श्रृंखला पूरी करें: 2, 4, 8, 16, ? (प्रश्न 148)",
+                "question_en": "Complete the series: 2, 4, 8, 16, ? (Question 148)",
+                "options": {
+                    "A": {
+                    "hi": "18",
+                    "en": "18"
+                    },
+                    "B": {
+                    "hi": "24",
+                    "en": "24"
+                    },
+                    "C": {
+                    "hi": "30",
+                    "en": "30"
+                    },
+                    "D": {
+                    "hi": "32",
+                    "en": "32"
+                    }
+                },
+                "answer": "D"
+                },
+                {
+                "id": 149,
+                "question_hi": "भारत का राष्ट्रीय पशु क्या है? (प्रश्न 149)",
+                "question_en": "What is the national animal of India? (Question 149)",
+                "options": {
+                    "A": {
+                    "hi": "शेर",
+                    "en": "Lion"
+                    },
+                    "B": {
+                    "hi": "हाथी",
+                    "en": "Elephant"
+                    },
+                    "C": {
+                    "hi": "बाघ",
+                    "en": "Tiger"
+                    },
+                    "D": {
+                    "hi": "घोड़ा",
+                    "en": "Horse"
+                    }
+                },
+                "answer": "C"
+                },
+                {
+                "id": 150,
+                "question_hi": "संविधान सभा के अध्यक्ष कौन थे? (प्रश्न 150)",
+                "question_en": "Who was the Chairman of the Constituent Assembly? (Question 150)",
                 "options": {
                     "A": {
                     "hi": "डॉ. अंबेडकर",
@@ -253,7 +3613,7 @@
                 },
                 "answer": "C"
                 }
-            ]
+                ]
             },
             {
                 "id": "ssc_1_set-2",

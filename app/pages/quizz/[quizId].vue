@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import type { Option } from '@/domain/interface/common'
 import QuestionCard from '@/components/quiz/QuestionCard.vue'
 import Options from '@/components/quiz/Options.vue'
 import Timer from '@/components/quiz/Timer.vue'
@@ -8,7 +9,9 @@ const quizStore = useQuizStore()
 
 const route = useRoute()
 const router = useRouter()
-const { startQuiz, setAnswer, nextQuestion, markForReview } = quizStore
+const { startQuiz, setAnswer, 
+  nextQuestion, markForReview, previousQuestion } 
+  = quizStore
 const {
   quiz,
   questions,
@@ -43,9 +46,9 @@ const selectOption = (optionId: string) => {
 //   }
 // }
 
-const previousQuestion = () => {
-  quizStore.previousQuestion()
+const previousQuest = () => {
   selectOptionId.value = answers.value[currentQuestion.value.id - 1] || ''
+  previousQuestion()
 }
 
 
@@ -59,12 +62,24 @@ const skip = () => {
 const next = async () => {
   if (isLastQuestion.value) {
     await quizStore.submitQuiz()
-    router.push('/quiz/result')
+    navigateTo('/quizz/result')
   } else {
-    selectOptionId.value = ''
+    selectOptionId.value = answers.value?.[currentQuestion.value.id + 1] || ''
     nextQuestion()
   }
 }
+
+const optionList = computed<Option[]>(() => {
+  const opts = currentQuestion.value?.options
+  if (!opts) return []
+
+  return Object.keys(opts).map(key => ({
+    id: key,
+    en: opts[key]?.en ?? '',
+    hi: opts[key]?.hi ?? ''
+  }))
+})
+
 
 const onTimeout = () => {
   nextQuestion()
@@ -77,7 +92,7 @@ const isLast = computed(() => isLastQuestion.value)
     <!-- Header -->
     <div class="d-flex align-center justify-space-between mb-4">
       <h2 class="text-h6 font-weight-bold">
-        {{ quiz.title }} - Answered: {{ totalAnswered }} / {{ questions.length }}
+        {{ quiz.title }}
       </h2>
 
       <Timer
@@ -96,15 +111,15 @@ const isLast = computed(() => isLastQuestion.value)
     <!-- Options -->
     <Options
       v-if="currentQuestion?.options"
-      :options="currentQuestion.options"
+      :options="optionList"
       :selected="selectOptionId"
-      @select="selectOption"
+      @select="(optionId: string) => selectOption(optionId)"
     />
 
     <!-- Actions -->
     <v-row class="mt-6">
       <v-col cols="6" v-if="enablePrev">
-        <v-btn variant="outlined" @click="previousQuestion">
+        <v-btn variant="outlined" @click="previousQuest">
           Previous
         </v-btn>
       </v-col>

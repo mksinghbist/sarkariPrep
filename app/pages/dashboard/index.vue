@@ -14,7 +14,7 @@
           <p class="text-body-2 text-medium-emphasis mt-2">
             Practice today’s questions
           </p>
-          <v-btn block color="primary" class="mt-4">
+          <v-btn block color="primary" class="mt-4" to="/dashboard/exams">
             Start Quiz
           </v-btn>
         </v-card>
